@@ -22,6 +22,15 @@ Records representing real-world observations
 
 Data used to analyze trends, patterns, and performance indicators
 
+## Dashboard Preview
+![Dashboard](Customer_behvaviour_analysis.png)
+
+
+## Dashboard Preview
+
+[![Dashboard View](DashboardView.png)](Customer_behvaviour_analysis.png)
+
+
 Source
 
 Dataset obtained from open data sources for analytics practice.
